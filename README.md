@@ -1,5 +1,32 @@
-### Hi there 👋
-
-It's Shakeeb. I love building backend and frontend stuff. I have been doing this for 10+ years and still strong 💪
-
-<!-- ![Shakeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakee93&bg_color=30,22092d,021b4c&title_color=fff&text_color=fff&show_icons=true&icon_color=fff) -->
+```json
+{
+  "currentlyBuilding": "RapidLoad & AI Software for Humans",
+  "currentlyLearning": [
+    "AI Agents",
+    "Retrieval-Augmented Generation (RAG)",
+    "GraphRAQ",
+    "Prompt Engineering",
+    "High-Conversion Marketing",
+    "Product Growth Strategies",
+    "Business Automation"
+  ],
+  "linkedIn": "https://www.linkedin.com/in/shakeeb-sadikeen",
+  "askMeAbout": [
+    "Software Architecture",
+    "AI Workflows",
+    "WordPress Performance",
+    "AI in WordPress",
+    "Web Performance Optimization",
+    "SaaS Growth",
+    "Full-Stack Development",
+    "Product Development"
+  ],
+  "additionalInformation": [
+    "Built RapidLoad, a top-tier WordPress performance optimization plugin",
+    "Experienced in React, Next.js, and WordPress plugin development",
+    "Optimizing WordPress for peak performance in less than 60 seconds",
+    "Focused on practical, results-driven development and marketing",
+    "Strong advocate for automation, AI, and efficiency in workflows"
+  ]
+}
+```
